@@ -1,0 +1,6 @@
+*.pyc
+*~
+
+/Web/application/utils.py
+/Web/secret_keys.py
+/spaintvs/secrets.py
