@@ -33,8 +33,6 @@ import urllib
 import hmac
 from cookielib import CookieJar
 
-from secrets import A3PLAYER_SECRET
-
 import Canal
 import Descargar
 import Utiles
